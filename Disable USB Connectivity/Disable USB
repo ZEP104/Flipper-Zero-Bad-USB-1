@@ -1,0 +1,8 @@
+
+
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\USBSTOR]
+”Start”=dword:00000004
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\USBSTOR\Enum]
+”Count”=dword:00000000
+”NextInstance”=dword:00000000
