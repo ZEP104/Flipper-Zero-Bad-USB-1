@@ -1,4 +1,4 @@
-# Flipper-Zero-Bad-USB-1
+# Flipper-Zero-Bad-USB-1 (https://www.youtube.com/watch?v=FdEpmMtRAsQ)
 
 The goal of this repository is to provide the information used in the Flipper Zero: BAD USB [1] Video on Youtube, in a easy to use format.
 
