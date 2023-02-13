@@ -3,7 +3,7 @@ The creators of this repository explicitly deny any liability or responsibility 
 By accessing and using this repository, you acknowledge and agree that you do so entirely at your own risk and that the creators are not responsible or liable for any consequences. 
 Failure to comply may result in severe consequences.
 
-TO USE REMOVE THE #
+TO USE REMOVE THE # and make the following a .txt file:
 
 DELAY 1000
 CONTROL ESCAPE
