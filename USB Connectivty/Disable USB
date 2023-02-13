@@ -12,3 +12,4 @@ TO USE REMOVE THE # and convert to .REG file
 #[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\USBSTOR\Enum]
 #”Count”=dword:00000000
 #”NextInstance”=dword:00000000
+
