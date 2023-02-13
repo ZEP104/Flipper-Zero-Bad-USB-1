@@ -17,3 +17,4 @@ DELAY 500
 ENTER
 #STRING netsh advfirewall set allprofiles state off
 ENTER
+
